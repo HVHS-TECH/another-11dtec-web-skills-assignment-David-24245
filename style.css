@@ -1,3 +1,22 @@
-Html, body {
+body {
   background-color: rgb(216, 236, 241);
+}
+
+
+body {
+  font: 15px serif, Lora;
+}
+
+
+img {
+  border-radius: 8px;
+}
+
+
+a:hover {
+  color: Black;
+}
+
+a:active {
+  color: Orange;
 }
