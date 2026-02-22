@@ -32,3 +32,5 @@ main {
 footer {
   background-color:lightblue;
 }
+
+ul.a {list-style-type: circle;}
