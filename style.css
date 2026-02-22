@@ -17,6 +17,18 @@ a:hover {
   color: Black;
 }
 
-a:active {
-  color: Orange;
+nav {
+  background-color:lightgreen;
+}
+
+header {
+  background-color:orange;
+}
+
+main {
+  background-color:blue;
+}
+
+footer {
+  background-color:lightblue;
 }
