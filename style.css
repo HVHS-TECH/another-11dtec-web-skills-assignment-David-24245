@@ -39,12 +39,38 @@ ul.a {list-style-type: circle;}
   color:red;
 }
 
-.whitetext {
-  color:white;
+#whitetext {
+  color:rgba(255, 255, 255, 0.753);
 }
 
-#links{
-  background-color:lightblue;
-  padding:40px;
+#center {
   text-align: center;
+}
+
+#title {
+  background-color: orange;
+  color:black;
+  padding: 40px;
+  text-align:center;
+}
+
+.border {
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
 }
