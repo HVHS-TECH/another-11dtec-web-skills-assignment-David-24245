@@ -34,3 +34,17 @@ footer {
 }
 
 ul.a {list-style-type: circle;}
+
+.redtext {
+  color:red;
+}
+
+.whitetext {
+  color:white;
+}
+
+#links{
+  background-color:lightblue;
+  padding:40px;
+  text-align: center;
+}
